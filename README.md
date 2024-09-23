@@ -1,3 +1,30 @@
+## polygon_ros (humble) - 1.1.0-1
+
+The packages in the `polygon_ros` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble polygon_ros --override-release-repository-push-url git@github.com:revyos-ros/polygon_ros-release.git` on `Mon, 23 Sep 2024 07:33:18 -0000`
+
+These packages were released:
+- `polygon_demos`
+- `polygon_msgs`
+- `polygon_rviz_plugins`
+- `polygon_utils`
+
+Version of package(s) in repository `polygon_ros`:
+
+- upstream repository: https://github.com/MetroRobots/polygon_ros
+- release repository: https://github.com/revyos-ros/polygon_ros-release.git
+- rosdistro version: `1.1.0-1`
+- old version: `1.0.2-1`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## polygon_ros (jazzy) - 1.0.2-4
 
 The packages in the `polygon_ros` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy polygon_ros --override-release-repository-push-url git@github.com:revyos-ros/polygon_ros-release` on `Tue, 25 Jun 2024 01:37:48 -0000`
